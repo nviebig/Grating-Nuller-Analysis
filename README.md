@@ -1,6 +1,6 @@
 ### Semester Project: Grating Nuller
 
-![Image]{img/SetUp.jpeg}
+![Grating Nuller Setup](img/SetUp.jpeg)
 
 In this project, I am conducting a **theoretical analysis** of a **grating nuller**, an optical instrument used to suppress starlight and enhance high-contrast imaging capabilities for studying faint objects near bright sources, such as exoplanets.
 
